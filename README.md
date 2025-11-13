@@ -58,7 +58,8 @@ Copy code
 
 | Genres Screen | Movie List | Movie Info |
 |----------------|-------------|-------------|
-| ![Genres Screen](screenshots/genres.png) | ![Movie List](screenshots/movie_list.png) | ![Movie Info](screenshots/movie_info.png) |
+| ![Genres Screen](https://github.com/BhaveshGoswami11/MultipleViewController_Using-Movies/blob/main/Sneak%20Peek%20Of%20Working%20App/Genre%20Screen.png?raw=true) | ![Movie List](https://github.com/BhaveshGoswami11/MultipleViewController_Using-Movies/blob/main/Sneak%20Peek%20Of%20Working%20App/Movies%20Screen.png?raw=true) | ![Movie Info](https://github.com/BhaveshGoswami11/MultipleViewController_Using-Movies/blob/main/Sneak%20Peek%20Of%20Working%20App/Movie%20Detail%20Screen.png?raw=true) |
+
 
 ---
 
