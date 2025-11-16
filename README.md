@@ -54,8 +54,6 @@ Copy code
 
 ## 🖼️ App Preview
 
-> 🧩 Add your own screenshots or simulator recordings here!
-
 | Genres Screen | Movie List | Movie Info |
 |----------------|-------------|-------------|
 | ![Genres Screen](https://github.com/BhaveshGoswami11/MultipleViewController_Using-Movies/blob/main/Sneak%20Peek%20Of%20Working%20App/Genre%20Screen.png?raw=true) | ![Movie List](https://github.com/BhaveshGoswami11/MultipleViewController_Using-Movies/blob/main/Sneak%20Peek%20Of%20Working%20App/Movies%20Screen.png?raw=true) | ![Movie Info](https://github.com/BhaveshGoswami11/MultipleViewController_Using-Movies/blob/main/Sneak%20Peek%20Of%20Working%20App/Movie%20Detail%20Screen.png?raw=true) |
